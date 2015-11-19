@@ -1,0 +1,61 @@
+
+
+body{
+	width:100%;
+	height:100%;
+	background-color: #585252;
+	
+}
+#image1{
+	width:90pxpx;
+	height:50px;
+	opacity: 0.4;
+    filter: alpha(opacity=40);
+}
+.nav navbar-nav{
+position:200px;
+width:100%;
+border-radius:0px!important:
+
+}
+
+.html5-video-container {
+    z-index: 10;
+    position: relative;
+	margin-top: 0px;
+    margin-bottom: 0px;
+}
+.navbar navbar-default{
+	color:black;
+}
+#jumbotron {
+    height: 70%;
+    width: 100%;
+    background-image: url("destinyimage6.jpg");
+    background-size: 1920px 2000px;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-top: -19px;
+    margin-bottom: 0px;
+}
+.touts-container{
+	height:200px;
+	width:200px;
+	background-color:red;
+	float:left;
+	z-index:10;
+}
+.container{
+	height:2000px!important;
+    width: 1266px;
+	background-color:red;
+	padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1{
+	letter-spacing:30px;
+	
+	
+}
